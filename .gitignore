@@ -7,5 +7,5 @@
 Cargo.lock
 
 *.o
-bin/
-build/
+/bin/
+/build/
