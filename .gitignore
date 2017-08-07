@@ -9,3 +9,5 @@ Cargo.lock
 *.o
 /bin/
 /build/
+
+.vscode
